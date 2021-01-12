@@ -29,6 +29,10 @@ Syntax highlighted code block
 
 ```
 
+![DNX Root Role](/media/DNX-ROOT-role.png)
+[Link](https://youtu.be/WP9bf4k5EfY) and ![Image](https://github.com/DNXLabs/dnxlabs.github.io/blob/main/media/DNX-ROOT-role.png)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
