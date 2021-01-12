@@ -1,6 +1,8 @@
 # DNX ONE TUTORIAL #
 _Version: 1.4_
+
 _Author: Pietro Marmelo_
+
 _Revision: Pietro Marmelo_
 
 ## DNX-ROOT role for the DNX Well Architected Foundation ##
