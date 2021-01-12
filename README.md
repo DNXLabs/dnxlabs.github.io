@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![DNX Root Role](/media/DNX-ROOT-role.png)
+
 [Link](https://youtu.be/WP9bf4k5EfY) and ![Image](https://github.com/DNXLabs/dnxlabs.github.io/blob/main/media/DNX-ROOT-role.png)
 
 ```
