@@ -12,7 +12,7 @@ Prerequisites:
 - AWS Admin Access to your AWS Master Account 
 
 Steps: 
- ![Image](https://github.com/DNXLabs/dnxlabs.github.io/blob/main/media/DNX-ROOT-role.png) [Link](https://youtu.be/WP9bf4k5EfY)
+ ![Image](/media/DNX-ROOT-role.png) [Link](https://youtu.be/WP9bf4k5EfY)
 
 1. Login to AWS console. 
 2. Go to Services and type "CloudFormation". 
