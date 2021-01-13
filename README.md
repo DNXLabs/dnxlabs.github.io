@@ -12,20 +12,24 @@ Prerequisites:
 - AWS Admin Access to your AWS Master Account 
 
 Steps: 
+ ![Image](https://github.com/DNXLabs/dnxlabs.github.io/blob/main/media/DNX-ROOT-role.png) [Link](https://youtu.be/WP9bf4k5EfY)
+
 1. Login to AWS console. 
 2. Go to Services and type "CloudFormation". 
 3. Click on CloudFormation. 
 
-<image1>
+ ![Image](/media/preprojecttasksimage1.png)  
 
 4. Click on Create stack
 
-<image2>
+ ![Image](/media/preprojecttasksimage2.png)  
   
 5. On the next page insert the stack link on Amazon S3 URL. Stack link: 
 https://dnx-assets-prod.s3-ap-southeast-2.amazonaws.com/assets/dnx-master-role.ym
   
-<image3>
+
+![Image](/media/preprojecttasksimage3.png)  
+
   
 6. Click Next. 
 7. Insert the stack name "dnx-root". 
@@ -37,16 +41,19 @@ https://dnx-assets-prod.s3-ap-southeast-2.amazonaws.com/assets/dnx-master-role.y
 **** CFDeploy gives DNX permission to access the new accounts. Default "True". 
 ***** OrganizationAccountAccessRoleName default role name used by DNX to assume new roles. Leave as default.
 
-<image4>
+![Image](/media/preprojecttasksimage4.png)  
+
   
 9. On Configure stack options click Next. 
 10. On the Review page, mark the checkbox "I acknowledge that AWS CloudFormation might create IAM resources with custom names" and click in Create stack. 
 
-<image5>
+![Image](/media/preprojecttasksimage5.png)  
+
   
 11. On the Next page, wait for a few minutes and click in Refresh until the process is completed.
 
-<image6>
+![Image](/media/preprojecttasksimage6.png)  
+
   
 12. When the status changes to CREATE_COMPLETE, the process is done. 
 Account ID (Master Account). 
