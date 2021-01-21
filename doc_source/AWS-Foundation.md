@@ -3,9 +3,9 @@ DNX Foundation requires a high level of cooperation between customers and DNX to
 The are some pre requirements which need to be meet in order to the project start:
 
 # Pre Project Tasks #
-1) [Root Tutorial](DNX-root.md)
+1) [Root Tutorial](DNX-Root.md)
 
-2) SSO Configuration using Google GSuite and AWS
+2) [SSO Configuration] (SSO-Configuration.md]
 
 3) Email Address for AWS Foundation
 
