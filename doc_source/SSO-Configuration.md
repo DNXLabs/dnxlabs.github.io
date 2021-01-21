@@ -1,4 +1,4 @@
 
-[GSuite](SSO-Foundation-GSuite.md)
+[GSuite](SSO-Configuration-GSuite.md)
 
-[Azure](SSO-Foundation-Azure.md)
+[Azure](SSO-Configuration-Azure.md)
