@@ -5,7 +5,7 @@ The are some pre requirements which need to be meet in order to the project star
 # Pre Project Tasks #
 1) [Root Tutorial](DNX-Root.md)
 
-2) [SSO Configuration] (SSO-Configuration.md)
+2) [SSO Configuration](SSO-Configuration.md)
 
 3) Email Address for AWS Foundation
 
