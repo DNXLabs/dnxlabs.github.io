@@ -25,7 +25,7 @@ Steps:
  ![Image](/media/preprojecttasksimage2.png)  
   
 5. On the next page insert the stack link on Amazon S3 URL. Stack link: 
-https://dnx-assets-prod.s3-ap-southeast-2.amazonaws.com/assets/dnx-master-role.ym
+https://dnx-assets-prod.s3-ap-southeast-2.amazonaws.com/assets/dnx-master-role.yml
   
 
 ![Image](/media/preprojecttasksimage3.png)  
