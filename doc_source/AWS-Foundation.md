@@ -11,6 +11,7 @@ The are some pre requirements which need to be meet in order to the project star
 
 4) Create Source Repositories
 
-# Tasks during the project #
+5) [Configure OpenVPN](DNX-OpenVPN.md)
 
+# Tasks during the project #
 
